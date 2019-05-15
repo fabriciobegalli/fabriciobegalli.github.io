@@ -254,13 +254,13 @@ article {
     display: block;
     width: 250px;
     height: 250px;
-    margin: 20px auto;
+    margin: 20px auto;	
     background: url(img/userpic.png);
     background-position: 50% 0;
-    background-size: 88%;
+    background-size: 100%;
     background-repeat: no-repeat;
     border: 4px solid white;
-    border-radius: 150px
+    border-radius: 150px;	
 }
 
 .flag {
